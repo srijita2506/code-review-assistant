@@ -1,0 +1,7 @@
+# Ignore environment and reports
+.venv/
+__pycache__/
+*.pyc
+backend/.env
+backend/reports/
+.env
