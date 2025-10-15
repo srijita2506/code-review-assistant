@@ -21,3 +21,5 @@ An automated code review tool powered by LLMs (e.g., GPT-4/5) that analyzes uplo
 ## 🧩 Folder Structure
 git clone https://github.com/srijita2506/code-review-assistant.git  
 cd code-review-assistant  
+demo video
+https://www.loom.com/share/bbc4be01cb2b4ca8a84492884fe1c1ae?sid=50fb5ef4-a827-44df-aaf3-617deac6e52f
